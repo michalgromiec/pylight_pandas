@@ -23,6 +23,6 @@ Michał jest Data Scientist'em w Grupie Żywiec. Od lat związany z analizą dan
 8. Merge/concat czyli w czym Pandas przypomina bazy danych
 
 ## Kontakt
-[Olga Wilkowska](mailto:ol.wilkowska@gmail.com)
+[Olga Wilkowska - ol.wilkowska@gmail.com](mailto:ol.wilkowska@gmail.com)
 
-[Michal Gromiec](mailto:michal.gromiec@gmail.com)
+[Michal Gromiec - michal.gromiec@gmail.com](mailto:michal.gromiec@gmail.com)
